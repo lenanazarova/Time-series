@@ -5,8 +5,8 @@
 Прогноз количествa заказов такси на следующий час.
 
 ## Библиотеки
--Pandas
+- Pandas
 
--Numpy
+- Numpy
 
--Sklearn
+- Sklearn
